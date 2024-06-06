@@ -1,0 +1,332 @@
+[
+  {
+    "name": "HydratePro",
+    "description": "The Ultimate Sports Water Bottle for Active Lifestyles",
+    "content": "1 Liter",
+    "price": 25,
+    "company": "Yello",
+    "isOnSale": true,
+    "imgUrl": "uploads/1.jpg",
+    "id": "1"
+  },
+  {
+    "id": 2,
+    "name": "SummitPro",
+    "description": "The Conquer Gray Sports Water Bottle for Peak Performance",
+    "imgUrl": "uploads/2.jpg",
+    "content": "750 ml",
+    "price": 30,
+    "isOnSale": false,
+    "company": "Uzs"
+  },
+  {
+    "id": 3,
+    "name": "BlackOps",
+    "description": "The Stealth Black Sports Water Bottle for Elite Hydration",
+    "imgUrl": "uploads/3.jpg",
+    "content": "750 ml",
+    "price": 32,
+    "isOnSale": false,
+    "company": "adidas"
+  },
+  {
+    "id": 4,
+    "name": "PurityPro",
+    "description": "The Pristine White Sports Water Bottle for Uncompromising Hydration",
+    "imgUrl": "uploads/4.jpg",
+    "content": "750 ml",
+    "price": 32,
+    "isOnSale": false,
+    "company": "adidas"
+  },
+  {
+    "id": 5,
+    "name": "SwiftFlex",
+    "description": "The Agile Black- Red Sports Gloves for Unparalleled Flexibility",
+    "imgUrl": "uploads/5.jpg",
+    "content": "",
+    "price": 50,
+    "isOnSale": false,
+    "company": "Blood sport"
+  },
+  {
+    "id": 6,
+    "name": "CoolFlow",
+    "description": "The Breathable Sports Gloves for Maximum Comfort",
+    "imgUrl": "uploads/6.jpg",
+    "content": "",
+    "price": 45,
+    "isOnSale": false,
+    "company": "Endura"
+  },
+  {
+    "id": 7,
+    "name": "GripPro",
+    "description": "The Light Blue Sports Gloves for Enhanced Grip and Control",
+    "imgUrl": "uploads/7.jpg",
+    "content": "",
+    "price": 50,
+    "isOnSale": false,
+    "company": "Rock"
+  },
+  {
+    "id": 8,
+    "name": "RadiantHeat",
+    "description": "The Thermal Sports Gloves for Warmth and Performance",
+    "imgUrl": "uploads/8.jpg",
+    "content": "",
+    "price": 45,
+    "isOnSale": true,
+    "company": "Y&B"
+  },
+  {
+    "id": 9,
+    "name": "StridePro",
+    "description": "The Ultimate Sports Shoes for Unmatched Performance and Style",
+    "imgUrl": "uploads/9.jpg",
+    "content": "",
+    "price": 350,
+    "isOnSale": true,
+    "company": "Nike"
+  },
+  {
+    "id": 10,
+    "name": "EndureTech",
+    "description": "The Durable Sports Shoes Engineered for Long-Lasting Comfort",
+    "imgUrl": "uploads/10.jpg",
+    "content": "",
+    "price": 450,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 11,
+    "name": "AgilityX",
+    "description": "The Lightweight Sports Shoes for Unparalleled Agility and Speed",
+    "imgUrl": "uploads/11.jpg",
+    "content": "",
+    "price": 430,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 12,
+    "name": "ImpactShield",
+    "description": "The Protective Sports Shoes for Superior Shock Absorption",
+    "imgUrl": "uploads/12.jpg",
+    "content": "",
+    "price": 450,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 13,
+    "name": "ErgoFit",
+    "description": "The Anatomically Designed Sports Shoes for Personalized Comfort",
+    "imgUrl": "uploads/13.jpg",
+    "content": "",
+    "price": 480,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 14,
+    "name": "StyleFusion",
+    "description": " The Fashion-Forward Sports Shoes that Blend Style and Performance",
+    "imgUrl": "uploads/14.jpg",
+    "content": "",
+    "price": 420,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 15,
+    "name": "InnovationDrive",
+    "description": "The Cutting-Edge Sports Shoes Powered by Advanced Technology",
+    "imgUrl": "uploads/15.jpg",
+    "content": "",
+    "price": 560,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 16,
+    "name": "AdaptTech",
+    "description": "The Adaptive Sports Shoes that Adjust to Your Needs",
+    "imgUrl": "uploads/16.jpg",
+    "content": "",
+    "price": 620,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 17,
+    "name": "HexDumbbells",
+    "description": "Rubber-coated hex dumbbells, 7 LB, with an anti-roll design and comfortable grip",
+    "imgUrl": "uploads/17.jpg",
+    "content": "7 LB",
+    "price": 70,
+    "isOnSale": false,
+    "company": "COAGDP"
+  },
+  {
+    "id": 18,
+    "name": "AdjustaWeights",
+    "description": "Adjustable dumbbell, allows for quick weight 10 LB, ideal for versatile strength training",
+    "imgUrl": "uploads/18.jpg",
+    "content": "10 LB",
+    "price": 450,
+    "isOnSale": false,
+    "company": "COAGDP"
+  },
+  {
+    "id": 19,
+    "name": "SpeedRope Jump Rope",
+    "description": "Adjustable speed jump rope with ball bearings for smooth rotation and lightweight handles for a comfortable grip",
+    "imgUrl": "uploads/19.jpg",
+    "content": "2 m",
+    "price": 60,
+    "isOnSale": false,
+    "company": "Walk that mile"
+  },
+  {
+    "id": 20,
+    "name": "ZenYoga Mat",
+    "description": "Non-slip yoga mat with 6mm thickness, providing excellent cushioning and support for yoga, pilates, and floor exercises",
+    "imgUrl": "uploads/20.jpg",
+    "content": "2 m",
+    "price": 250,
+    "isOnSale": false,
+    "company": "Bel"
+  },
+  {
+    "id": 21,
+    "name": "BalancePhysio Ball",
+    "description": "Anti-burst physiotherapy ball, 65cm in diameter, with a textured surface for improved grip, perfect for core exercises and stability training.",
+    "imgUrl": "uploads/21.jpg",
+    "content": "",
+    "price": 100,
+    "isOnSale": false,
+    "company": "Clint Berton"
+  },
+  {
+    "id": 22,
+    "name": "Weights Set",
+    "description": "Adjustable weights, perfect for adding resistance to leg workouts and improving muscle tone",
+    "imgUrl": "uploads/22.jpg",
+    "content": "2- 10 Kg",
+    "price": 350,
+    "isOnSale": true,
+    "company": "Meg"
+  },
+  {
+    "id": 23,
+    "name": "KettlePro Kettlebells",
+    "description": "Cast iron kettlebells with a wide, comfortable handle, available in weights 3 LB",
+    "imgUrl": "uploads/23.jpg",
+    "content": "3 LB",
+    "price": 90,
+    "isOnSale": true,
+    "company": "Meg"
+  },
+  {
+    "id": 24,
+    "name": "CoolFit T-Shirt",
+    "description": "Lightweight, moisture-wicking t-shirt designed to keep you cool and dry during intense workouts",
+    "imgUrl": "uploads/24.jpg",
+    "content": "",
+    "price": 220,
+    "isOnSale": false,
+    "company": "Aiithuug"
+  },
+  {
+    "id": 25,
+    "name": "RunPro Tee",
+    "description": "Breathable running t-shirt with reflective details for enhanced visibility during early morning or evening runs.",
+    "imgUrl": "uploads/25.jpg",
+    "content": "",
+    "price": 300,
+    "isOnSale": true,
+    "company": "The North Face"
+  },
+  {
+    "id": 26,
+    "name": "GymFlex Tank Top",
+    "description": "Sleeveless tank top with a relaxed fit and mesh panels for increased ventilation during gym sessions",
+    "imgUrl": "uploads/26.jpg",
+    "content": "",
+    "price": 250,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 27,
+    "name": "CushionPro Socks",
+    "description": "Cushioned athletic socks with arch support and moisture-wicking fabric, ideal for running and gym workouts",
+    "imgUrl": "uploads/27.jpg",
+    "content": "",
+    "price": 30,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 28,
+    "name": "CycleGrip Socks",
+    "description": "Breathable cycling socks with reinforced heel and toe, designed for long rides and maximum comfort",
+    "imgUrl": "uploads/28.jpg",
+    "content": "",
+    "price": 60,
+    "isOnSale": false,
+    "company": "Nike"
+  },
+  {
+    "id": 29,
+    "name": "PowerLift Socks",
+    "description": "Compression socks for weightlifting, providing enhanced circulation and muscle support",
+    "imgUrl": "uploads/29.jpg",
+    "content": "",
+    "price": 100,
+    "isOnSale": false,
+    "company": "Air Jordan"
+  },
+  {
+    "id": 30,
+    "name": "RunLight Socks",
+    "description": "Lightweight running socks with mesh ventilation zones and anti-blister technology",
+    "imgUrl": "uploads/30.jpg",
+    "content": "",
+    "price": 40,
+    "isOnSale": false,
+    "company": "adidas"
+  },
+  {
+    "id": 31,
+    "name": "YogaZen Top",
+    "description": "Soft and stretchy top, perfect for yoga and pilates, with a comfortable, form-fitting design",
+    "imgUrl": "uploads/31.jpg",
+    "content": "",
+    "price": 150,
+    "isOnSale": true,
+    "company": "Nike"
+  },
+  {
+    "id": 32,
+    "name": "CycloSport Jersey",
+    "description": "Performance cycling jersey with moisture-wicking fabric and rear pockets for storage",
+    "imgUrl": "uploads/32.jpg",
+    "content": "",
+    "price": 150,
+    "isOnSale": false,
+    "company": "Elsa"
+  },
+  {
+    "id": 33,
+    "name": "TrailRun Long Sleeve",
+    "description": "Long sleeve running shirt with UV protection, ideal for trail running in varied weather conditions",
+    "imgUrl": "uploads/33.jpg",
+    "content": "",
+    "price": 200,
+    "isOnSale": false,
+    "company": "Nike"
+  }
+]

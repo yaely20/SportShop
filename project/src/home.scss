@@ -1,0 +1,48 @@
+// src/Home.scss
+
+body, html {
+  overflow-x: hidden; // Prevent horizontal scrolling on the body
+}
+
+.home {
+  position: relative;
+  width: 100%; // Ensure the home container takes the full width
+  height: 100vh; // Ensure the home container takes the full height
+  overflow: hidden; // Prevent any overflow
+}
+
+.slick-slider {
+  width: 100%; // Ensure the slider takes the full width
+  height: 100%; // Ensure the slider takes the full height
+}
+
+.full-screen-image {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover; // Ensure images cover the slide area
+}
+
+.slide-content {
+  position: relative;
+  width: 100%; // Ensure slide content takes full width
+  height: 100vh; // Ensure slide content takes full height
+}
+
+.explore-button {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 30px;
+  font-size: 1.5rem;
+  background-color: rgba(255, 49, 49, 0.8);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: rgba(255, 49, 49, 1);
+  }
+}

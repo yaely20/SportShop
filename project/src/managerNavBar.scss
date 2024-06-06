@@ -1,0 +1,156 @@
+
+.aaa{
+.navbar {
+  // background-color: #1f5156;
+  background-color: #ff3131;
+  height: 80px;
+  display: flex;
+  justify-content: space-between; /* יישור האלמנטים בין הקצוות */
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  width: 100%; /* ודא שסרט הניווט מתפשט על כל הרוחב */
+  padding: 0 0px; /* רווח אופציונלי להוספת ריווח */
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between; /* יישור האלמנטים בין הקצוות */
+  align-items: center;
+  width: 100%; /* ודא שהמיכל מתפשט על כל הרוחב */
+  height: 80px;
+  max-width: 1500px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.nav-logo {
+  // color: #f5b921;
+  color: #ffffff;
+  margin-left: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 2rem;
+
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo img {
+  height: 50px; /* Adjust the height to your preference */
+  width: auto;
+  max-width: 100%;
+  display: block;
+}
+
+.nav-logo .icon {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  margin-left: 16px;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  margin-right: 2rem;
+}
+
+.nav-links {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  height: 100%;
+  border-bottom: 3px solid transparent;
+}
+
+.nav-item {
+  line-height: 40px;
+  margin-right: 1rem;
+}
+
+.nav-item:after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 0;
+  background: transparent;
+  transition: width 0.7s ease, background-color 0.5s ease;
+}
+
+.nav-item:hover:after {
+  width: 100%;
+  // background: #ffdd40;
+  background: #ffffff;
+}
+
+.nav-item .active {
+  color: #ffdd40;
+  border: 1px solid #ffdd40;
+}
+
+.nav-icon {
+  display: none;
+  color: #f5b921;
+}
+
+.nav-icon .icon {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+}
+
+@media screen and (max-width: 960px) {
+  .nav-menu {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-top: 1px solid #fff;
+    position: absolute;
+    top: 80px;
+    left: -110%;
+    opacity: 1;
+    transition: all 0.5s ease;
+  }
+
+  .nav-menu.active {
+    background: #ff3131;
+    left: 0px;
+    opacity: 1;
+    transition: all 0.5s ease;
+    z-index: 1;
+  }
+
+  .nav-item .active {
+    color: #ffdd40;
+    border: none;
+  }
+
+  .nav-links {
+    padding: 1.5rem;
+    width: 100%;
+    display: table;
+  }
+
+  .nav-logo .icon {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .nav-icon {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(-100%, -50%);
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    color: #ffffff;
+  }
+
+}
+}
